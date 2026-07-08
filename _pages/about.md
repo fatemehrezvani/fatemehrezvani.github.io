@@ -12,7 +12,7 @@ profile:
     <p>Windsor, Ontario, Canada</p>
     <p>Open to AI/ML opportunities in Canada</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
