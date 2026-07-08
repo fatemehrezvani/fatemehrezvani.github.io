@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Applied machine learning, NLP, LLM, and recommendation system projects.
 nav: true

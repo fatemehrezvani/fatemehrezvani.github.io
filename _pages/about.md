@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Machine Learning Engineer | AI, NLP, LLMs & Data Science
 
