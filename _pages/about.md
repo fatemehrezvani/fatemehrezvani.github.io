@@ -2,47 +2,57 @@
 layout: about
 title: About
 permalink: /
-subtitle: Machine Learning Engineer | AI, NLP, LLMs & Data Science
 
 profile:
   align: right
-  image: fatemeh-profile.jpg
-  image_circular: true
-  more_info: >
-    <p>Windsor, Ontario, Canada</p>
-    <p>Open to AI/ML opportunities in Canada</p>
+  image: prof_pic.jpg
+  image_circular: false
 
 selected_papers: false
 social: true
 
 announcements:
   enabled: false
-  scrollable: true
-  limit: 3
 
 latest_posts:
   enabled: false
-  scrollable: true
-  limit: 3
 ---
 
-Hi, I’m **Fatemeh Rezvani**, a Machine Learning Engineer based in Canada with a background in Computer Engineering, Artificial Intelligence, and Digital Transformation.
+# Hi, I'm Fatemeh Rezvani 👋
 
-I build machine learning and data-driven systems using **Python, PyTorch, TensorFlow, Scikit-learn, SQL, Pandas, NumPy, and Streamlit**. My work includes credit risk prediction, recommendation systems, Persian NLP topic modeling, and LLM-powered customer support agents.
+### Machine Learning Engineer | Applied AI | NLP | Recommendation Systems
 
-My current focus is on **LLMs, RAG systems, FastAPI, Docker, cloud deployment, and end-to-end AI applications**. I’m especially interested in applied AI roles where machine learning, NLP, and product-focused problem solving come together.
+**Building practical AI systems that solve real-world problems.**
 
-## Core Interests
+---
 
-- Machine Learning & Deep Learning
-- Natural Language Processing
-- LLM Applications & RAG
+## About Me
+
+I am a Machine Learning Engineer with a strong foundation in Artificial Intelligence, complemented by a Master's degree in Digital Transformation and Entrepreneurship from Carleton University and a Master's degree in Artificial Intelligence from Iran University of Science and Technology (IUST).
+
+My experience spans industry, academic research, and teaching, allowing me to bridge theoretical knowledge with practical engineering solutions. Throughout my career, I have designed and developed machine learning solutions for recommendation systems, predictive analytics, natural language processing, and intelligent decision-support applications.
+
+I enjoy transforming complex datasets into reliable, explainable, and scalable machine learning solutions. My approach combines analytical thinking with practical implementation, focusing on building systems that create measurable value rather than models that remain only in experimentation.
+
+Currently, I am expanding my expertise in Large Language Models (LLMs), AI agents, Retrieval-Augmented Generation (RAG), MLOps, and modern AI engineering practices. My goal is to contribute to teams that build production-ready AI products capable of solving meaningful business and user problems.
+
+I am currently seeking opportunities as a **Machine Learning Engineer** or **AI Engineer**, where I can contribute to the design, development, and deployment of intelligent systems while continuing to grow as an AI professional.
+
+---
+
+## Technical Interests
+
+- Machine Learning
+- Natural Language Processing (NLP)
 - Recommendation Systems
-- Data Science & Predictive Modeling
+- Large Language Models (LLMs)
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Information Retrieval
+- Graph Neural Networks
+- Responsible AI
+- MLOps
 
-## Currently Building
+---
 
-- A professional AI/ML portfolio
-- LLM and RAG-based applications
-- FastAPI and Docker deployment workflows
-- Interview-ready Machine Learning projects
+> *"Building intelligent systems that transform data into real-world impact."*

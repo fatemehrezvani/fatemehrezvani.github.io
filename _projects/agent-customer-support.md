@@ -1,45 +1,101 @@
 ---
 layout: page
 title: Agent-Based Customer Support System
-description: LLM-powered service routing and customer support triage system
-img: assets/img/project_preview.png
+description: LLM-powered multi-agent customer support workflow built with OpenAI API and Swarm.
+img: assets/img/projects/agent-banner.png
 importance: 1
 category: featured
+github: https://github.com/fatemehrezvani/Agent-Based-Customer-Support-System-for-Internet-Services.git
 ---
 
-## Overview
+# Agent-Based Customer Support System
 
-This project is an LLM-powered customer support system designed to classify user requests, route them to the appropriate service path, and generate more personalized responses.
+### LLM-powered multi-agent workflow for intelligent customer request routing and response generation.
 
-The goal was to reduce manual triage effort and improve response efficiency by combining rule-based logic with agent-based AI workflows.
+---
 
-## Problem
+## Project Snapshot
 
-Customer support teams often receive many different types of requests, including service questions, troubleshooting needs, and account-related issues. Manually identifying the right support path can slow down response time and create inconsistent customer experiences.
+| | |
+|---|---|
+| **Role** | Machine Learning Engineer |
+| **Domain** | Customer Support AI |
+| **Project Type** | LLM Application |
+| **Status** | Completed |
+| **Technologies** | Python · OpenAI API · Swarm · Prompt Engineering |
 
-## Solution
+---
 
-I built an agent-based workflow using Python, Swarm Framework, and the OpenAI API to classify incoming requests and support intelligent service routing.
+# Executive Summary
 
-The system used adaptive triage logic to identify user intent, prioritize requests, and generate personalized recommendations.
+Customer support teams receive a wide variety of customer requests every day. Efficiently understanding user intent and routing each request to the appropriate specialist is essential for improving response quality and reducing manual effort.
 
-## My Contributions
+This project explores how Large Language Models (LLMs) and agent-based workflows can automate customer request triage. Using OpenAI models and the Swarm framework, I designed a multi-agent system capable of classifying user intent, routing requests to specialized agents, and generating context-aware responses.
 
-- Designed the service-routing workflow.
-- Implemented adaptive triage logic for request classification.
-- Integrated OpenAI API for LLM-powered response generation.
-- Built the system using Python and Swarm Framework.
-- Improved support efficiency and customer satisfaction by 2%.
+---
 
-## Technical Stack
+# Business Problem
+
+Traditional customer support workflows often rely on manual request classification or static rule-based routing. As request volume grows, these approaches become difficult to maintain, resulting in slower response times and inconsistent customer experiences.
+
+The objective of this project was to investigate how an LLM-powered multi-agent architecture could streamline request routing while maintaining response quality.
+
+---
+
+# Technical Solution
+
+The system was designed as a collaborative workflow where multiple AI agents perform specialized tasks instead of relying on a single monolithic prompt.
+
+The workflow includes:
+
+- Intent identification
+- Request classification
+- Agent selection
+- Context-aware response generation
+
+The application was implemented in Python using OpenAI API and the Swarm framework to coordinate communication between specialized agents.
+
+---
+
+# My Contributions
+
+- Designed the overall multi-agent workflow.
+- Implemented intent classification logic.
+- Integrated OpenAI API for natural language understanding and response generation.
+- Built specialized routing logic using Swarm.
+- Developed prompt engineering strategies to improve response consistency.
+- Evaluated workflow performance using realistic customer support scenarios.
+
+---
+
+# Results
+
+- Improved customer support efficiency by approximately **2%** through adaptive routing.
+- Reduced manual intervention required during request triage.
+- Demonstrated how multi-agent collaboration can improve scalability compared with single-agent workflows.
+
+---
+
+# Technology Stack
 
 - Python
-- Swarm Framework
 - OpenAI API
-- Agent-based workflow design
-- Prompt engineering
-- Request classification
+- Swarm Framework
+- Prompt Engineering
+- Large Language Models (LLMs)
 
-## Key Takeaway
+---
 
-This project strengthened my understanding of how LLMs can be used beyond simple chat interfaces. It showed how agent-based systems can support real operational workflows such as triage, routing, and decision support.
+# Engineering Decisions
+
+Instead of relying on a single prompt for every customer request, I designed a multi-agent architecture where each agent has a specialized responsibility.
+
+This modular design improves maintainability, enables easier experimentation, and makes the workflow more scalable as new support scenarios are introduced.
+
+---
+
+# Lessons Learned
+
+This project strengthened my understanding of agent orchestration, prompt engineering, and LLM application design.
+
+If I continue developing this system, I would extend it by integrating persistent conversation memory, retrieval-augmented generation (RAG), FastAPI for deployment, and Docker for containerization to support production-ready AI services.
