@@ -4,7 +4,7 @@ title: Agent-Based Customer Support System
 description: LLM-powered service routing and customer support triage system
 img: assets/img/project_preview.png
 importance: 1
-category: work
+category: featured
 ---
 
 ## Overview
