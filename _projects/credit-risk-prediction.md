@@ -2,7 +2,7 @@
 layout: page
 title: Credit Risk Prediction
 description: Machine learning models for predicting loan default risk using structured financial data.
-img: assets/img/projects/credit_risk.png
+#img: assets/img/projects/credit_risk.png
 importance: 2
 category: featured
 ---

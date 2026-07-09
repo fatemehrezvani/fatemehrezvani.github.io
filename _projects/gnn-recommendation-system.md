@@ -2,7 +2,7 @@
 layout: page
 title: Graph-Based Recommendation System
 description: Improving recommendation quality using Graph Neural Networks for information retrieval.
-img: assets/img/RS.png
+#img: assets/img/RS.png
 importance: 3
 category: machine-learning
 ---
