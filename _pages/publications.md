@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 ---
 
-## Publications
+
 
 1. Soleimani Sardou S, **Rezvaninejad R**, Rezvaninejad FS, Nekouei AH.  
    **Artificial intelligence for oral cancer diagnosis: a systematic review and meta-analysis of image-based and non-imaging models.**  

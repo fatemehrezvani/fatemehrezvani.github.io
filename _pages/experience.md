@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Experience
+title: Professional Experience
 permalink: /experience/
 nav: true
 nav_order: 3
 ---
 
-# Professional Experience
 
 My background combines machine learning engineering, applied NLP, research, teaching, and Canadian workplace experience. I focus on building practical AI and data-driven systems while bringing strong communication, documentation, and problem-solving skills to technical teams.
 

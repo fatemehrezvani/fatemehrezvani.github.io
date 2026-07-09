@@ -6,7 +6,6 @@ nav: true
 nav_order: 4
 ---
 
-## Areas of Interest
 
 I enjoy building practical AI systems that solve real-world problems. My interests lie at the intersection of machine learning, intelligent decision-making, and scalable AI applications.
 
