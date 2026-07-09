@@ -2,7 +2,7 @@
 layout: page
 title: Agent-Based Customer Support System
 description: LLM-powered multi-agent customer support workflow built with OpenAI API and Swarm.
-img: assets/img/projects/agent-banner.png
+img: assets/img/service-agents.png
 importance: 1
 category: featured
 github: https://github.com/fatemehrezvani/Agent-Based-Customer-Support-System-for-Internet-Services.git
