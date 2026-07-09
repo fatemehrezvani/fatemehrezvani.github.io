@@ -6,7 +6,7 @@ subtitle: Machine Learning Engineer | AI, NLP, LLMs & Data Science
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: fatemeh-profile.jpg
   image_circular: true
   more_info: >
     <p>Windsor, Ontario, Canada</p>
