@@ -5,40 +5,6 @@ title: Home
 permalink: /
 nav: true
 ---
----
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 40px; flex-wrap: wrap; margin-top: 30px; margin-bottom: 50px;">
-
-  <div style="flex: 1; min-width: 280px;">
-
-  <h1 style="font-size: 3rem; margin-bottom: 10px;">Fatemeh Rezvani</h1>
-
-  <h2 style="font-size: 1.6rem; font-weight: 500; margin-bottom: 15px;">
-  Machine Learning Engineer
-  </h2>
-
-  <p style="font-size: 1.1rem; font-weight: 500; margin-bottom: 10px;">
-  Applied AI • Large Language Models • Natural Language Processing • Recommendation Systems
-  </p>
-
-  <p style="font-size: 1.1rem; max-width: 650px;">
-  Building intelligent AI systems that transform data into practical, real-world solutions.
-  </p>
-
-  <div style="margin-top: 25px;">
-    <a class="btn btn-primary" href="/projects/" style="margin-right: 10px;">View Projects</a>
-    <a class="btn btn-outline-primary" href="/cv/" style="margin-right: 10px;">Download CV</a>
-    <a class="btn btn-outline-primary" href="/contact/">Get in Touch</a>
-  </div>
-
-  </div>
-
-  <div style="flex: 0 0 260px; text-align: center;">
-    <img src="/assets/img/prof_pic.jpg" alt="Fatemeh Rezvani" style="width: 240px; height: 240px; object-fit: cover; border-radius: 18px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);">
-  </div>
-
-</div>
-
----
 
 ## About Me
 
