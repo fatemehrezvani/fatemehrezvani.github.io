@@ -1,7 +1,9 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
+nav: true
+
 subtitle: Machine Learning Engineer | AI, NLP, LLMs & Data Science
 
 profile:
@@ -12,16 +14,16 @@ profile:
     <p>Windsor, Ontario, Canada</p>
     <p>Open to AI/ML opportunities in Canada & the U.S.</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 ---
@@ -38,7 +40,6 @@ My current focus is on **LLMs, RAG systems, FastAPI, Docker, cloud deployment, a
 - Natural Language Processing
 - LLM Applications & RAG
 - Recommendation Systems
-- Responsible AI
 - Data Science & Predictive Modeling
 
 ## Currently Building
