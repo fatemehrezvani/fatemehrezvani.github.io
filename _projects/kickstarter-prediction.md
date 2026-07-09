@@ -2,7 +2,7 @@
 layout: page
 title: Kickstarter Campaign Success Prediction
 description: End-to-end machine learning workflow for predicting crowdfunding campaign outcomes.
-#img: assets/img/kickstart.jpg
+img: assets/img/projects/kickstart.jpg
 importance: 4
 category: machine-learning
 github: https://github.com/fatemehrezvani/Predictive-Modeling-for-Kickstarter-Campaigns.git

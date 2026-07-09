@@ -2,7 +2,7 @@
 layout: page
 title: Easy Data Augmentation for Natural Language Processing
 description: Improving NLP model robustness through data-centric augmentation techniques.
-img: assets/img/Data-Augmentation.jpg
+img: assets/img/projects/Data_Augmentation.jpg
 importance: 6
 category: nlp
 ---

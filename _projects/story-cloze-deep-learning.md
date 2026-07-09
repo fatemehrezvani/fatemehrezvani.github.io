@@ -2,7 +2,7 @@
 layout: page
 title: Story Cloze Challenge
 description: Deep learning approaches for narrative understanding and story completion.
-#img: assets/img/cloze.png
+img: assets/img/projects/cloze.png
 importance: 7
 category: nlp
 ---
