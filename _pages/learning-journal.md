@@ -3,7 +3,7 @@ layout: page
 title: Learning Journal
 permalink: /learning-journal/
 nav: true
-nav_order: 6
+nav_order: 5
 description: Notes, summaries, and reflections from my ongoing learning in machine learning, AI engineering, and software development.
 ---
 
