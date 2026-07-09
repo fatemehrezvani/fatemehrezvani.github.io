@@ -5,7 +5,7 @@ description: LLM-powered multi-agent customer support workflow built with OpenAI
 img: assets/img/service-agents.png
 importance: 1
 category: featured
-github: https://github.com/fatemehrezvani/Agent-Based-Customer-Support-System-for-Internet-Services.git
+github: assets/img/service-agents.png
 ---
 
 # Agent-Based Customer Support System

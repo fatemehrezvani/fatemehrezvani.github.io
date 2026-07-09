@@ -2,7 +2,7 @@
 layout: page
 title: Persian Topic Modeling using BERTopic
 description: Topic discovery and semantic analysis of Persian text using transformer-based topic modeling.
-img: assets/img/projects/bertopic-banner.png
+img: assets/img/persian.png
 importance: 5
 category: nlp
 ---
