@@ -1,7 +1,6 @@
 ---
 layout: about
 permalink: /
-permalink: /
 title: About
 nav: true
 nav_order: 1
