@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: fatemeh-profile.jpg
   image_circular: false
 
 selected_papers: false
