@@ -1,21 +1,10 @@
 ---
 layout: about
-title: About
 permalink: /
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false
-
-selected_papers: false
-social: true
-
-announcements:
-  enabled: false
-
-latest_posts:
-  enabled: false
+permalink: /
+title: About
+nav: true
+nav_order: 1
 ---
 
 # Hi, I'm Fatemeh Rezvani 👋
@@ -24,7 +13,6 @@ latest_posts:
 
 **Building practical AI systems that solve real-world problems.**
 
----
 
 ## About Me
 
