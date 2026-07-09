@@ -16,7 +16,7 @@ announcements:
 
 latest_posts:
   enabled: false
-
+---
 
 # Hi, I'm Fatemeh Rezvani 👋
 
@@ -24,7 +24,7 @@ latest_posts:
 
 **Building practical AI systems that solve real-world problems.**
 
----
+
 
 ## About Me
 
