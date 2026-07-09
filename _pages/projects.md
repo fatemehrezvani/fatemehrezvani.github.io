@@ -10,6 +10,7 @@ description: Selected machine learning, NLP, recommendation systems, and LLM-bas
 ### Featured Projects
 
 ### Agent-Based Customer Support System
+![](/assets/img/projects/service_agents.png)
 ![Agent-Based Customer Support System](/assets/img/projects/service_agents.png)
 
 LLM-powered multi-agent customer support workflow built with OpenAI API and Swarm.
