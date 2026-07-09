@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Fatemeh Rezvani # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Fatemeh
 middle_name:
 last_name: Rezvani
