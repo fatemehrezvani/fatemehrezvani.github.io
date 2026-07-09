@@ -48,10 +48,9 @@ I am currently seeking opportunities as a **Machine Learning Engineer** or **AI 
 - Large Language Models (LLMs)
 - AI Agents
 - Retrieval-Augmented Generation (RAG)
-- Information Retrieval
 - Graph Neural Networks
 - Responsible AI
-- MLOps
+
 
 ---
 
