@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: About
 title: About
 permalink: /
 
@@ -18,7 +18,7 @@ latest_posts:
   enabled: false
 ---
 
-# Hi, I'm Fatemeh Rezvani 👋
+ Hi, I'm Fatemeh Rezvani 👋
 
 ### Machine Learning Engineer | Applied AI | NLP | Recommendation Systems
 
