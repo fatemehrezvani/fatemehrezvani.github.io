@@ -2,7 +2,7 @@
 layout: page
 title: Home
 permalink: /
-nav: false
+nav: true
 ---
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 40px; flex-wrap: wrap; margin-top: 30px; margin-bottom: 50px;">
