@@ -7,9 +7,7 @@ importance: 3
 category: machine-learning
 ---
 
-# Graph-Based Recommendation System
 
-### Improving recommendation quality through graph representation learning.
 
 ---
 

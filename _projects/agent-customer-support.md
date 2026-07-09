@@ -12,14 +12,8 @@ github: https://github.com/fatemehrezvani/Agent-Based-Customer-Support-System-fo
 
 
 
-# Agent-Based Customer Support System
 
-
-### LLM-powered multi-agent workflow for intelligent customer request routing and response generation.
-
----
-
-## Project Snapshot
+## Project Overview
 
 | | |
 |---|---|
