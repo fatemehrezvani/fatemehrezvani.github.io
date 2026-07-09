@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Home
 permalink: /
-nav: true
-nav: true
-nav_order: 1
+nav: false
 ---
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 40px; flex-wrap: wrap; margin-top: 30px; margin-bottom: 50px;">
