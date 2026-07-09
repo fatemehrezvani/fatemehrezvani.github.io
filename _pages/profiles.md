@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Fatemeh Rezvani
 permalink: /
 
 subtitle: Fatemeh Rezvani
