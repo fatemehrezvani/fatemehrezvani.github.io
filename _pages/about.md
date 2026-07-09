@@ -1,8 +1,8 @@
 ---
 layout: page
-#title: About
+title: About
 permalink: /
-nav: false
+nav: true
 nav_order: 1
 ---
 
@@ -17,7 +17,7 @@ nav_order: 1
   </h2>
 
   <p style="font-size: 1.1rem; font-weight: 500; margin-bottom: 10px;">
-  Applied AI • Large Language Models • NLP • Recommendation Systems
+  Applied AI • Large Language Models • Natural Language Processing • Recommendation Systems
   </p>
 
   <p style="font-size: 1.1rem; max-width: 650px;">
@@ -65,7 +65,6 @@ I am currently seeking opportunities as a **Machine Learning Engineer** or **AI 
 - Recommendation Systems
 - Graph Machine Learning
 - Retrieval-Augmented Generation (RAG)
-- MLOps
 - Responsible AI
 
 ---
