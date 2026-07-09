@@ -7,13 +7,9 @@ importance: 2
 category: featured
 ---
 
-# Credit Risk Prediction
 
-### Machine learning models for data-driven loan default prediction.
 
----
-
-## Project Snapshot
+## Project Overview
 
 | | |
 |---|---|

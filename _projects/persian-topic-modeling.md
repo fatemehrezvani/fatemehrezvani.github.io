@@ -7,13 +7,9 @@ importance: 5
 category: nlp
 ---
 
-# Persian Topic Modeling using BERTopic
 
-### Discovering meaningful topics from Persian text using transformer-based NLP.
 
----
-
-## Project Snapshot
+## Project Overview
 
 | | |
 |---|---|

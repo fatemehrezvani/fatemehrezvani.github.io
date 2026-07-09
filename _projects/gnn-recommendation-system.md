@@ -9,9 +9,8 @@ category: machine-learning
 
 
 
----
 
-## Project Snapshot
+## Project Overview
 
 | | |
 |---|---|

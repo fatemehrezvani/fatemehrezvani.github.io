@@ -7,13 +7,8 @@ importance: 6
 category: nlp
 ---
 
-# Easy Data Augmentation (EDA)
 
-### Improving text classification through simple yet effective data augmentation techniques.
-
----
-
-## Project Snapshot
+## Project Overview
 
 | | |
 |---|---|

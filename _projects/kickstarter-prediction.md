@@ -8,13 +8,9 @@ category: machine-learning
 github: https://github.com/fatemehrezvani/Predictive-Modeling-for-Kickstarter-Campaigns.git
 ---
 
-# Kickstarter Campaign Success Prediction
 
-### Predicting crowdfunding campaign outcomes using supervised machine learning.
 
----
-
-## Project Snapshot
+## Project Overview
 
 | | |
 |---|---|

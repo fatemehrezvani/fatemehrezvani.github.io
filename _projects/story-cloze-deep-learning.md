@@ -7,13 +7,9 @@ importance: 7
 category: nlp
 ---
 
-# Story Cloze Challenge
 
-### Exploring deep learning techniques for narrative understanding and story ending prediction.
 
----
-
-## Project Snapshot
+## Project Overview
 
 | | |
 |---|---|
