@@ -1,6 +1,6 @@
 
 ---
-layout: page
+layout: about
 title: Home
 permalink: /
 nav: false
