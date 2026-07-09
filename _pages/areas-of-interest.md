@@ -16,9 +16,8 @@ Rather than focusing solely on research, I am particularly interested in applyin
 
 - Machine Learning
 - Natural Language Processing (NLP)
-- Large Language Models (LLMs)
 - Recommendation Systems
+- Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
-- Graph Neural Networks
 - Model Deployment
