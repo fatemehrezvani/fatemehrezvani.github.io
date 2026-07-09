@@ -1,10 +1,10 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 
 
-subtitle: Fatemeh Rezvani\n Machine Learning Engineer | AI, NLP, LLMs & Data Science
+subtitle: Machine Learning Engineer | AI, NLP, LLMs & Data Science
 
 profile:
   align: right
